@@ -1,8 +1,8 @@
-Ejercicio 1:
+## Ejercicio 1:
 
 Completar refactorizaciones del proyecto refactoring visto en clase.
 
-Ejercicio 2:
+## Ejercicio 2:
 
 Revisar técnicas de https://refactoring.guru/refactoring/catalog
 

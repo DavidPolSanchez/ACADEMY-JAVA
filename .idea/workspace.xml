@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b44bd5f5-18e4-46ea-8347-88c401a7dc30" name="Changes" comment="Add pom to the project">
+    <list default="true" id="b44bd5f5-18e4-46ea-8347-88c401a7dc30" name="Changes" comment="Add Good consolidateduplicate refactor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\David Pol\WORKSPACE\GITHUB\SOLID-JavaBootCamp\1.SOLID\refactoring\src\main\java\conditionals\consolidateduplicate\good" />
+      <recent name="C:\Users\David Pol\WORKSPACE\GITHUB\SOLID-JavaBootCamp\1.SOLID\refactoring\src\main\java\conditionals\consolidatedconditional\good" />
       <recent name="C:\Users\David Pol\WORKSPACE\GITHUB\SOLID-JavaBootCamp\1.SOLID\refactoring\src" />
       <recent name="C:\Users\David Pol\WORKSPACE\GITHUB\SOLID-JavaBootCamp\1.SOLID\refactoring" />
     </key>
@@ -58,7 +61,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663584789553</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Good consolidatedconditional refactor">
+      <created>1663586681037</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663586681037</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Good consolidateduplicate refactor">
+      <created>1663586736962</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663586736962</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +91,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add pom to the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add pom to the project" />
+    <MESSAGE value="Add Good consolidatedconditional refactor" />
+    <MESSAGE value="Add Good consolidateduplicate refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Good consolidateduplicate refactor" />
   </component>
 </project>
