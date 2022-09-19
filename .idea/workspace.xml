@@ -4,13 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b44bd5f5-18e4-46ea-8347-88c401a7dc30" name="Changes" comment="Add Good polymorphism refactor">
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/magicnumbers/good/Main.java" afterDir="false" />
+    <list default="true" id="b44bd5f5-18e4-46ea-8347-88c401a7dc30" name="Changes" comment=" Replace Magic Number with Symbolic Constant">
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/replacearray/good/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/replacearray/good/ProductColored.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/conditionals/polymorphism/good/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/conditionals/polymorphism/good/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/conditionals/polymorphism/good/ProductBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/conditionals/polymorphism/good/ProductBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/conditionals/polymorphism/good/ProductPremium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/conditionals/polymorphism/good/ProductPremium.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,10 +57,11 @@
       <recent name="C:\Users\David Pol\WORKSPACE\GITHUB\SOLID-JavaBootCamp\1.SOLID\refactoring" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.java.data.replacearray.good" />
       <recent name="main.java.data.magicnumbers.good" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.main.java.data.replacearray.good.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.data.magicnumbers.good.Main" />
       <module name="refactoring" />
@@ -62,8 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main.java.data.replacearray.good.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.data.replacearray.good.Main" />
+      <module name="refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.data.replacearray.good.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main.java.data.replacearray.good.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -112,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663590252137</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" Replace Magic Number with Symbolic Constant">
+      <created>1663590789680</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663590789680</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +166,7 @@
     <MESSAGE value="Add Good consolidateduplicate refactor" />
     <MESSAGE value="style on README.md" />
     <MESSAGE value="Add Good polymorphism refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Good polymorphism refactor" />
+    <MESSAGE value=" Replace Magic Number with Symbolic Constant" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Replace Magic Number with Symbolic Constant" />
   </component>
 </project>

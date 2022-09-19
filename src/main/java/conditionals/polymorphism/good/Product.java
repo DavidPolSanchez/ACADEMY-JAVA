@@ -8,7 +8,7 @@ public abstract class Product {
     private String name;
     private Double price;
 
-    abstract double calculatePrice();
+    protected abstract double calculatePrice();
 
     public String getName() {
         return name;

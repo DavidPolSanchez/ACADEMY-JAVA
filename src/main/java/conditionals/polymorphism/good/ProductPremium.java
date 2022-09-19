@@ -2,7 +2,7 @@ package main.java.conditionals.polymorphism.good;
 
 public class ProductPremium extends Product{
     @Override
-    double calculatePrice() {
+    protected double calculatePrice() {
         return this.getPrice();
     }
 }
